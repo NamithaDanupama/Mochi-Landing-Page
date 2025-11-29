@@ -69,8 +69,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email Us",
-      content: "sandes.damunu@gmail.com",
-      href: "mailto:sandes.damunu@gmail.com",
+      content: "mochi.cs96@gmail.com",
+      href: "mailto:mochi.cs96@gmail.com",
     },
     {
       icon: Phone,
@@ -81,7 +81,7 @@ export default function Contact() {
     {
       icon: MapPin,
       title: "Visit Us",
-      content: "123 Education Lane, Learning City",
+      content: "Colombo, Sri Lanka",
       href: "#",
     },
   ];

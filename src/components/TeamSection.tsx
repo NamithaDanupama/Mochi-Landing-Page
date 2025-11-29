@@ -6,45 +6,45 @@ import { Github, Linkedin } from "lucide-react";
 const teamMembers = [
   {
     name: "Namitha Danupama",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+    avatar: "/img/Namitha.jpg",
     initials: "ND",
-    github: "#",
-    linkedin: "#"
+    github: "https://github.com/NamithaDanupama",
+    linkedin: "https://www.linkedin.com/in/namitha-danupama"
   },
   {
     name: "Thewan Jayaweera",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+    avatar: "/img/Thewan.jpg",
     initials: "TJ",
-    github: "#",
-    linkedin: "#"
+    github: "https://github.com/Thewjay",
+    linkedin: "https://www.linkedin.com/in/thewanjayaweera/"
   },
   {
     name: "Sandes Damunugalla",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
     initials: "SD",
     github: "#",
-    linkedin: "#"
+    linkedin: "https://www.linkedin.com/in/sandes-damunugalla/"
   },
   {
     name: "Movindu Gamage",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=David",
+    avatar: "/img/Movindu.jpg",
     initials: "MG",
     github: "#",
-    linkedin: "#"
+    linkedin: "https://www.linkedin.com/in/movindu-gamage-462102333/"
   },
   {
     name: "Hesandu Disanayake",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
     initials: "HD",
     github: "#",
-    linkedin: "#"
+    linkedin: "https://www.linkedin.com/in/hesandudissanayake/"
   },
   {
     name: "Punsith Wickramanayaka",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=James",
     initials: "PW",
     github: "#",
-    linkedin: "#"
+    linkedin: "https://www.linkedin.com/in/punsith-wickramanayaka-988771332/"
   }
 ];
 

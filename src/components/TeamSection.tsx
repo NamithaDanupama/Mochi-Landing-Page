@@ -20,30 +20,30 @@ const teamMembers = [
   },
   {
     name: "Sandes Damunugalla",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+    avatar: "/img/Sabdes.jpg",
     initials: "SD",
-    github: "#",
+    github: "https://github.com/Sandes-Damunu",
     linkedin: "https://www.linkedin.com/in/sandes-damunugalla/"
   },
   {
     name: "Movindu Gamage",
     avatar: "/img/Movindu.jpg",
     initials: "MG",
-    github: "#",
+    github: "https://github.com/Movindu-Gamage",
     linkedin: "https://www.linkedin.com/in/movindu-gamage-462102333/"
   },
   {
     name: "Hesandu Disanayake",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
+    avatar: "/img/Hesandu.jpg",
     initials: "HD",
-    github: "#",
+    github: "https://github.com/Hesanduu",
     linkedin: "https://www.linkedin.com/in/hesandudissanayake/"
   },
   {
     name: "Punsith Wickramanayaka",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=James",
+    avatar: "/img/Punsith.jpg",
     initials: "PW",
-    github: "#",
+    github: "https://github.com/PunsithR",
     linkedin: "https://www.linkedin.com/in/punsith-wickramanayaka-988771332/"
   }
 ];

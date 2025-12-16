@@ -20,7 +20,7 @@ const teamMembers = [
   },
   {
     name: "Sandes Damunugalla",
-    avatar: "/img/Sabdes.jpg",
+    avatar: "/img/Sandes.jpg",
     initials: "SD",
     github: "https://github.com/Sandes-Damunu",
     linkedin: "https://www.linkedin.com/in/sandes-damunugalla/"
@@ -41,7 +41,7 @@ const teamMembers = [
   },
   {
     name: "Punsith Wickramanayaka",
-    avatar: "/img/Punsith.jpg",
+    avatar: "/img/Punsith.JPG",
     initials: "PW",
     github: "https://github.com/PunsithR",
     linkedin: "https://www.linkedin.com/in/punsith-wickramanayaka-988771332/"

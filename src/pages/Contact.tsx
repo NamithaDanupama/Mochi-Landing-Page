@@ -75,7 +75,7 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Call Us",
-      content: "+1 (555) 123-4567",
+      content: "+94 112 45 45 45",
       href: "tel:+15551234567",
     },
     {
@@ -166,7 +166,7 @@ export default function Contact() {
                       name="name"
                       value={formData.name}
                       onChange={handleChange}
-                      placeholder="John Doe"
+                      placeholder="Saman Disanayaka"
                       required
                       className="h-12"
                     />
@@ -182,7 +182,7 @@ export default function Contact() {
                       type="email"
                       value={formData.email}
                       onChange={handleChange}
-                      placeholder="john@example.com"
+                      placeholder="saman@example.com"
                       required
                       className="h-12"
                     />
@@ -199,7 +199,7 @@ export default function Contact() {
                     type="tel"
                     value={formData.phone}
                     onChange={handleChange}
-                    placeholder="+1 (555) 123-4567"
+                    placeholder="+94 125 45 45 45"
                     className="h-12"
                   />
                 </div>

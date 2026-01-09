@@ -6,7 +6,7 @@ import { Github, Linkedin } from "lucide-react";
 const teamMembers = [
   {
     name: "Namitha Danupama",
-    avatar: "/img/Namitha.jpg",
+    avatar: "/img/Namitha.png",
     initials: "ND",
     github: "https://github.com/NamithaDanupama",
     linkedin: "https://www.linkedin.com/in/namitha-danupama"
